@@ -9,5 +9,5 @@ So here cames **dtreeviz** to the rescue. **dtreeviz** is a python library for d
 This notebook shows an introduction to sklearn's DecisionTreeRegressor. And also, how to display and interpretate it properly using **dtreeviz**. We will use [tips dataset](https://github.com/mwaskom/seaborn-data/blob/master/tips.csv).
 
 Clicking [here](https://github.com/parrt/dtreeviz) you'll open dtreeviz oficial repository. You could find things like:
-* [how to install it.](https://github.com/parrt/dtreeviz#install) 
-* [useful-resources.](https://github.com/parrt/dtreeviz#useful-resources)
+* [installation guide.](https://github.com/parrt/dtreeviz#install) 
+* [useful resources.](https://github.com/parrt/dtreeviz#useful-resources)
